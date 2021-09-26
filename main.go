@@ -10,4 +10,5 @@ func main() {
 			time.Sleep(time.Second)
 			fmt.Println(time.Now())
 		}
+	time.Sleep(time.Hour)
 }
